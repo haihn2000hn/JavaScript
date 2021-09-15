@@ -13,7 +13,7 @@ console.log(languages.length)
 //Array methods
 
 //To String
-console.log(languages.toString())
+console.log(languages.toString())//biến mảng thành chuỗi
 
 //Join
 console.log(languages.join('-')) //nếu bên trong join() mà không có gì thì nó sẽ tạo ra kết quả y hệt như toString
@@ -28,7 +28,7 @@ console.log(languages.join('-')) //nếu bên trong join() mà không có gì th
 // console.log(languages.push('C'))
 
 //Shift
-// console.log(languages.shift()) //Xóa đi phần tử ở đầu mảng
+// console.log(languages.shift()) //Xóa đi phần tử ở đầu mảng và trả lại giá trị đó
 
 //Unshift
 // console.log(languages.unshift('C')) //Thêm phần tử ở đầu mảng
